@@ -1,14 +1,14 @@
 #!/usr/bin/python3
-"""oop"""
+"""oopppppppppppppppppppppppppppppppppppppp"""
 
 
 class square():
-    """opp"""
+    """oppppppppppppppppppppppppppppppppppp"""
     width = 0
     height = 0
 
     def __init__(self, *args, **kwargs):
-        """oop"""
+        """oopppppppppppppppppppppppppppppppppppppppppppppppppp pppp"""
         for key, value in kwargs.items():
             setattr(self, key, value)
 
@@ -17,11 +17,11 @@ class square():
         return self.width * self.height
 
     def PermiterOfMySquare(self):
-        """oop"""
+        """ooppppppppppppppppppppppppppppppppppppppppp oop"""
         return (self.width * 2) + (self.height * 2)
 
     def __str__(self):
-        """oop"""
+        """oopppppppppppppppppppppppppppppppppppppppppppppppppppppppppp oop"""
         return "{}/{}".format(self.width, self.height)
 
 
