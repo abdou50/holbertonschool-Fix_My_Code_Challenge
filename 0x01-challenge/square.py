@@ -3,8 +3,7 @@
 
 
 class square():
-    """oop"""
-
+    """opp"""
     width = 0
     height = 0
 
